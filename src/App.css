@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Overpass";
+    font-weight: 50;
+    src: url("../public/fonts/Overpass-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Overpass-Bold";
+    font-weight: 70;
+    src: url("../public/fonts/Overpass-Bold.ttf") format("truetype");
+}
